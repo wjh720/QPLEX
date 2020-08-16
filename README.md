@@ -6,7 +6,7 @@
 
 The implementation of the following methods can also be found in this codebase, which are finished by the authors of following papers:
 
-- [**QPLEX**: QPLEX: Duplex Dueling Multi-Agent Q-Learning]
+- [**QPLEX**: QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://arxiv.org/abs/2008.01062)
 - [**QTRAN**: QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement learning](https://arxiv.org/abs/1905.05408)
 - [**Qatten**: Qatten: A General Framework for Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/2002.03939)
 - [**QMIX**: QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)
