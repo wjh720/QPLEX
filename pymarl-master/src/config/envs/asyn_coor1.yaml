@@ -1,0 +1,21 @@
+env: asyn_coor1
+
+env_args:
+  n_agents: 3
+  n_actions: 100
+  episode_limit: 50
+  coor_len: 3
+  reward_win: 10
+  obs_last_action: False
+  state_last_action: False
+  print_rew: False
+  is_print: False
+  print_steps: 1000
+
+learner_log_interval: 10000
+log_interval: 10000
+runner_log_interval: 10000
+t_max: 10050000
+test_interval: 10000
+test_nepisode: 300
+test_greedy: True

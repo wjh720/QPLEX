@@ -1,0 +1,19 @@
+env: matrix_game_3
+
+env_args:
+  n_agents: 2
+  n_actions: 3
+  episode_limit: 1
+  obs_last_action: False
+  state_last_action: False
+  print_rew: False
+  is_print: False
+  print_steps: 1000
+learner_log_interval: 1000
+log_interval: 1000
+runner_log_interval: 1000
+t_max: 10050000
+test_interval: 1000
+test_nepisode: 30
+test_greedy: True
+demo_interval: 1000
